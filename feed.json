@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "BURN3D",
     "description": "",
-    "home_page_url": "file:///C:\Users\ericc\Documents\Publii\sites\burn3d\preview",
-    "feed_url": "file:///C:\Users\ericc\Documents\Publii\sites\burn3d\preview/feed.json",
+    "home_page_url": "https://burn3d.xyz",
+    "feed_url": "https://burn3d.xyz/feed.json",
     "user_comment": "",
-    "icon": "file:///C:/Users/ericc/Documents/Publii/sites/burn3d/preview/media/website/burn3d-2.png",
+    "icon": "https://burn3d.xyz/media/website/burn3d-2.png",
     "author": {
         "name": "BURN3D"
     },
