@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>BURN3D</title>
+    <link href="file:///C:\Users\ericc\Documents\Publii\sites\burn3d\preview/feed.xml" rel="self" />
+    <link href="file:///C:\Users\ericc\Documents\Publii\sites\burn3d\preview" />
+    <updated>1969-12-31T18:00:00-06:00</updated>
+    <author>
+        <name>BURN3D</name>
+    </author>
+    <id>file:///C:\Users\ericc\Documents\Publii\sites\burn3d\preview</id>
+
+</feed>

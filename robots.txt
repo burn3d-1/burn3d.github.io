@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:///C:\Users\ericc\Documents\Publii\sites\burn3d\preview/sitemap.xml
